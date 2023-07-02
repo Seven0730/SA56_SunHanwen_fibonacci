@@ -10,5 +10,5 @@ How to start React
 ---
 
 1. Change directory to "{yourlocal_repository}/oracletest"
-1. Run "npm install" (first run only)
-1. Run "npm start" 
+1. Run `npm install` (first run only)
+1. Run `npm start`
