@@ -1,0 +1,12 @@
+logging:
+  level: INFO
+  loggers:
+    oracle: DEBUG
+
+template: Hello, %s!
+defaultName: Strange
+
+server:
+  applicationConnectors:
+    - type: http
+      port: 8080
